@@ -1,0 +1,25 @@
+{
+  "name": "crudexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katiedoherty/CRUD.git"
+  },
+  "author": "katiedoherty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katiedoherty/CRUD/issues"
+  },
+  "homepage": "https://github.com/katiedoherty/CRUD#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.15"
+  }
+}
